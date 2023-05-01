@@ -1,0 +1,1 @@
+# JS-Math-Function-assignment
